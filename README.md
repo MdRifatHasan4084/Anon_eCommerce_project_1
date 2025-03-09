@@ -1,1 +1,1 @@
-This is web side link : https://mdrifathasan.github.io/eCommerce_project_1/
+This is website link : https://mdrifathasan.github.io/eCommerce_project_1/
